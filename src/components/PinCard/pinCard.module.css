@@ -1,6 +1,10 @@
 .__container {
     width: 236px;
-    height: 200px;
-    background-color: red;
-    margin-bottom: 20px;
+    text-align: left;
+    margin: 10px 10px 10px;
+
+}
+
+.__image {
+    border-radius: 16px;
 }

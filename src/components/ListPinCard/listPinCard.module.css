@@ -1,8 +1,10 @@
 .__container {
     display: flex;
     flex-flow: column wrap;
-    width: 1260px;
-    height: 1000px;
-    padding: 80px 30px 30px;
+    align-items: center;
+    max-height: 2500px;
     margin: 0 auto;
+    padding-top: 100px;
+    justify-content: center;
+    width: 100%;
 }
