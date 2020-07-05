@@ -1,0 +1,8 @@
+.__container {
+    display: flex;
+    flex-flow: column wrap;
+    width: 1260px;
+    height: 1000px;
+    padding: 80px 30px 30px;
+    margin: 0 auto;
+}
